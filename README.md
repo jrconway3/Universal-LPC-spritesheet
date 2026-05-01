@@ -1,12 +1,10 @@
-ARCHIVED
-======================
-
-Brought this back from Makrohn as an ARCHIVE only, please follow Sanderfrenken's new Generator instead:
-https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator
-
-
 Universal Sprite Sheet
 ======================
+
+> [!CAUTION]
+> This repository is outdated and no longer maintained. It is preserved here for archival purposes only.
+> 
+> Please see https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator
 
 An attempt to consolidate all of the humanoid entries from the Liberated Pixel Cup, lpc.opengameart.org, into a single GIMP project, as well as to try and make most clothing accessible by either gender.
 
